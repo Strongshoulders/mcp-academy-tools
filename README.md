@@ -15,7 +15,7 @@ A free tool from [MCP Academy](https://mcpacademy.co/tools/youtube-breakdown). M
 TL;DR: two lines on what it is and whether it's worth your time.
 
 Top 3 actions      Action | Why | Cost | Source (timestamp + doc link)
-Claims checked     Time | Claim | Verified / Changed / Unverified / Wrong | Official source
+Claims checked     Time | Claim | Verified / Partly true / Changed / Unverified / Wrong | Official source
 Tactics            m:ss one line each
 Parked             everything else, one line each
 Shiny object check
@@ -65,7 +65,7 @@ Just paste a link and ask:
 
 or in Claude Code, call it directly: `/youtube-breakdown:youtube-breakdown <link>` (plugin install) or `/youtube-breakdown <link>` (manual install).
 
-Tell Claude what you want from the video (tools to try, marketing ideas, a fact check) and what you already use, and the top 3 gets much sharper.
+Tell Claude what you want from the video (tools to try, marketing ideas, a fact check) and what you already use, and the top 3 gets sharper.
 
 ## Limits
 
