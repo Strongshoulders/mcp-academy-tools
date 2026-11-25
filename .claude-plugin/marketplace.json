@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mcp-academy",
+  "description": "Free Claude tools from MCP Academy",
+  "owner": { "name": "MCP Academy", "url": "https://mcpacademy.co" },
+  "plugins": [
+    {
+      "name": "youtube-breakdown",
+      "description": "Paste a YouTube link, get a ranked top 3 actions briefing with timestamped claims checked against official docs.",
+      "source": "./youtube-breakdown",
+      "category": "productivity",
+      "homepage": "https://mcpacademy.co/tools/youtube-breakdown"
+    }
+  ]
+}

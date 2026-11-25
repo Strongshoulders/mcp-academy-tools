@@ -1,0 +1,9 @@
+{
+  "name": "youtube-breakdown",
+  "version": "1.0.0",
+  "description": "Paste a YouTube link, get a ranked top 3 actions briefing. Pulls the transcript without playing the video, extracts timestamped claims and tactics, and checks product claims against official docs.",
+  "author": { "name": "MCP Academy", "url": "https://mcpacademy.co" },
+  "homepage": "https://mcpacademy.co/tools/youtube-breakdown",
+  "license": "MIT",
+  "keywords": ["youtube", "transcript", "research", "fact-check", "summary"]
+}
