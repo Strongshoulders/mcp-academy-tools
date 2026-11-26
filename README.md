@@ -28,7 +28,7 @@ Shiny object check
 In Claude Code, run:
 
 ```
-/plugin marketplace add GITHUB_OWNER/mcp-academy-tools
+/plugin marketplace add Strongshoulders/mcp-academy-tools
 /plugin install youtube-breakdown@mcp-academy
 ```
 
